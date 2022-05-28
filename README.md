@@ -1,6 +1,6 @@
  # Programas en c++ de Campos Diana
  ## Informacion del autor
- 'Autora: Diana Liseth Campos Castillos'
+ 'Autora: Diana Liseth Campos Castillo'
 
 
  'Correo: diana.campos.castillo@utelvt.edu.ec' 
