@@ -30,7 +30,7 @@
 
  ## Instalación 
  ### Descargar el repositorio
-
+ 1.-clonar el repositorio en la máquina local. 
 
  git clone https://github.com/Dianaliseth/programar.git
 
@@ -39,7 +39,7 @@
  
  ### Compilar y ejecutar
 
- g++ SumaN.cpp -o SumaN
+ g++ Compara.cpp -o Compara
 
- ./SumaN
+ ./Compara
 
