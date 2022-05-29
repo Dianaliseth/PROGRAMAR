@@ -1,5 +1,5 @@
  # Programas en c++ de Campos Diana
- ## Informacion del autor
+ ## Información del autor
   Autora: Diana Liseth Campos Castillo
 
 
