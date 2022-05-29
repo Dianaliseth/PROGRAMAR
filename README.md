@@ -39,7 +39,7 @@
 
  ### Calcula la edad
  #### Descripción del problema 
- Este programa en c++ permite ingresar la edad actual e ingresar la fecha de nacimiento y determinar si es mayor igual y cuanto la persona tiene. 
+ Este programa en c++ permite ingresar la edad actual e ingresar la fecha de nacimiento y determinar cuanto la persona tiene. 
   
  int cd_aa,cd_ma,cd_da,cd_an,cd_mn,cd_dn,cd_a,cd_m,cd_d;
         
@@ -57,7 +57,7 @@
  #### Descripción del problema
  Este programa en c++ permite ingresar cantidad e ingresar valor y determinar cuál es el menor y el valor final a pagar. 
 
- float float cd_x,cd_c=0,cd_a=0,cd_n,cd_vb,cd_viva,cd_vdes,cd_vf;
+ float cd_x,cd_c=0,cd_a=0,cd_n,cd_vb,cd_viva,cd_vdes,cd_vf;
    
  #### Salida
  
@@ -100,6 +100,7 @@
  g++ COMPARA.cpp -o COMPARA
 
  ./COMPARA
+
  
  ### Compilar y ejecutar
 
@@ -107,19 +108,22 @@
  
  ./SumaN
 
- #### Compilar y ejecutar
+
+ ### Compilar y ejecutar
 
  g++ LaEdad.cpp -o LaEdad
 
  ./LaEdad
+
  
- #### Compilar y ejecutar
+ ### Compilar y ejecutar
 
  g++ PuntoVenta.cpp -o PuntoVenta
  
  ./PuntoVenta
 
- #### Compilar y ejecutar
+
+ ### Compilar y ejecutar
 
  g++ CuentaMoneda.cpp -o CuentaMoneda
 
