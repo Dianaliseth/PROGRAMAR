@@ -29,3 +29,17 @@
  ### Cuenta moneda
 
  ## Instalación 
+ ### Descargar el repositorio
+
+
+ git clone https://github.com/Dianaliseth/programar.git
+
+ cd programar
+
+ 
+ ### Compilar y ejecutar
+
+ g++ SumaN.cpp -o SumaN
+
+ ./SumaN
+
