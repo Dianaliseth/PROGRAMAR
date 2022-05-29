@@ -13,14 +13,14 @@
  #### Funcionalidad
 
  
- float a,b;
+ float x,y;
  
  #### Salida
 
  
- Si (a==b) son iguales
+ Si (x==y) son iguales
 
- Si (a>b) a es el mayor
+ Si (x>y) x es el mayor
  
 
  ### Suma de varios números
